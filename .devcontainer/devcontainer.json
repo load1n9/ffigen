@@ -1,0 +1,7 @@
+{
+    "name": "FFIGEN Codespace",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "postCreateCommand": "echo 'Environment ready!'"
+  }
